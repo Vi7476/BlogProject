@@ -1,10 +1,20 @@
 ---
 layout: blog
-title: "First test blog "
+title: Test Blog
 date: 2021-09-21T07:58:00.449Z
 ---
-this is test blog in blog project 
+***This is test project to get familiarized with fallowing  tools and services***
 
-**gatsby+netlify cms**
+blog template was created and developed with **Gatsby** (using cmd) 
 
-![SOAP vs REST](/images/uploads/rest-vs-soap.png "Comparison of SAOP and REST")
+then merged to **GitHub** repository 
+
+then implemented with **Netlify**, developed and published
+
+adding new posts is provided using **Netlify CMS**
+
+
+
+**Gatsby + GitHub + Netlify CMS**
+
+![]()
